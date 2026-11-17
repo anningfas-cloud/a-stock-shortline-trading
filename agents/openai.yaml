@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股短线买卖点分析"
+  short_description: "用分时结构、预期差与资金承接制定A股短线条件化买卖计划"
+  default_prompt: "Use $a-stock-shortline-trading to analyze this A-share short-term setup and give conditional buy, sell, invalidation, and risk rules."
